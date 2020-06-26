@@ -4,7 +4,7 @@
 
     <groupId>com.github.eciuca.sonar</groupId>
     <artifactId>sonar-jacoco-listeners</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>Sonar JaCoCo Listener for parallel maven tests</name>
     <description>Sonar JaCoCo Listener and JacocoController that works with maven tests executed in parallel on
